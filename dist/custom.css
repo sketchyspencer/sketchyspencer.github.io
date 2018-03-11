@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+ body { font-family: 'Lato', sans-serif;}
+
+.nav-link { color: #000000; font-weight: 900;}
+.nav-link:hover { color: #4b4b4b; }
+.rb-black { background-color: #1b1b1b; }
+.rb-orange { background-color: #ff9812; }
